@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Archive"
-description: 까먹지 않기 위해 기록 하는 곳.
+description: 까먹지 않기 위해 기록하는 곳.
 main: true
 project-header: true
 header-img: img/about.jpg

@@ -1,0 +1,27 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Jason Jung
+baseurl:        ""
+url:            "https://jjh0106.github.io/"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Jason Jung
+  url:          
+  email:        jjh_0106@naver.com  
+  github:       jjh0106
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/jjh0106/jjh0106.github.io
